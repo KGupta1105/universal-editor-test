@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/KGupta1105/universal-editor-test/main"
+    url: "http://localhost:4502/bin/franklin.delivery/kgupta1105/universal-editor-test/main"
     type: "markup"
     suffix: ".html"
