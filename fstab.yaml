@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://github.com/KGupta1105/universal-editor-test/bin/franklin.delivery/kgupta1105/universal-editor-test/main"
+    url: "https://author-p41704-e1696077.adobeaemcloud.com/bin/franklin.delivery/kgupta1105/universal-editor-test/main"
     type: "markup"
     suffix: ".html"
