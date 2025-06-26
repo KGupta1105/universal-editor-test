@@ -1,5 +1,8 @@
 {
-  "project": "AEM XWalk Boilerplate",
+  "project": "universal-editor-test",
+  "host": "https://main--universal-editor-test--kgupta1105.aem.page",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
+  "previewHost": "https://main--universal-editor-test--kgupta1105.aem.page",
+  "liveHost": "https://main--universal-editor-test--kgupta1105.aem.live"
 }
