@@ -15,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "testimonial"
     ]
   },
   {
@@ -37,6 +38,12 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
     ]
   }
 ]
